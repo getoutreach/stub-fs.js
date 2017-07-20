@@ -1,0 +1,11 @@
+{
+  "name": "fs",
+  "version": "1.0.0",
+  "description": "A stubbed implementation of the Node.js \"fs\" library.",
+  "main": "index.js",
+  "repository": "https://github.com/getoutreach/stub-fs.js",
+  "author": [
+    "Devin Canterberry <devin.canterberry+github@outreach.io>"
+  ],
+  "license": "MIT"
+}
